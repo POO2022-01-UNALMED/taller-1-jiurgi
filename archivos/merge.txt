@@ -1,3 +1,10 @@
 Jimena Uribe Giraldo
 19 años
 Mis aspiraciones en la materia principalmente siendo sincera es aprender todo lo que pueda de programación, ya que he estudiado muchas cosas y sigo sin ser muy buena, me ha costado más que a cualquier otra persona pero aquí estoy con muchos ánimos :) para lograr ser (mi pensado por ahora), una gran científica de datos, siendo de la  carrera estadísitca. 
+
+Ahora puedo subir la carpeta archivos porque pude hacer el commit al crear un documento de texto dentro de la carpeta.
+
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+
+Según lo que entendí, trae conflictos a la hora de hacer el commit, lo que hace más confuso y tedioso el proceso. Pienso que puede tener riesgos a la hora de decidir qué información (cambios), son importantes y cuáles no, y si unos cambios afectan los otros, etc, es mejor con calma de a poco para evitar este tipo de problemas.
