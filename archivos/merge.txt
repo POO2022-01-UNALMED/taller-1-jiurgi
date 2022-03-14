@@ -1,0 +1,1 @@
+Ahora puedo subir la carpeta archivos porque pude hacer el commit al crear un documento de texto dentro de la carpeta.
