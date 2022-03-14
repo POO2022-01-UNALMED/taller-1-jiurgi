@@ -1,0 +1,1 @@
+No me apareció la carpeta en el github desktop porque al parecer no se pueden hacer commits a carpetas vacías :(
